@@ -1,0 +1,102 @@
+.header{
+padding-top: 5vw;
+padding-right: 10vw;
+padding-left: 30vw;
+background-color:rgb(170, 16, 16);
+width: 79%;
+float: left;
+border: 0ch;
+}
+.logo{
+    float: left;
+}
+.ng{
+    float: left;
+    padding-top: 7px;
+    padding-left: 5px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+    color: rgb(212,175,55);
+    letter-spacing: 1px;
+}
+h2{
+    float: left;
+    padding-top: 30px;
+    padding-left: 8px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    letter-spacing: 1px;
+    color: black;
+}
+.reg{
+    
+        float: left;
+        padding-top: 30px;
+        padding-left: 8px;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 17px;
+        letter-spacing: 1px;
+        color: black;
+    
+}
+.anilogo{
+    padding-left: 5px;
+    padding-bottom: 10px;
+}
+h3{
+    font-family:  'Montserrat', sans-serif;
+    font-size: 25px;
+    color:  rgb(192,192,192);
+    letter-spacing: 3px;
+    word-spacing: 4px;
+}
+.ftf{
+    width: 79%;
+    padding-left: 80vh;
+    padding-bottom: 2px;
+background-color:rgb(170, 16, 16);
+}
+.body{
+    padding-left: 36vw;
+    padding-top: 7px;
+}
+h4{
+    font-weight: 900;
+    font-size: 30px;
+    font-family:  'Montserrat', sans-serif;
+   color: white;
+}
+h5{
+    padding-left: 45vh;
+    font-weight: 900;
+    font-size: 20px;
+    font-family:  'Montserrat', sans-serif;
+    color: white;
+}
+.card{
+    background-color:black;
+    border-radius: 10px;
+
+}
+.avg{
+    float: left;
+    height: 80vh;
+    padding-left: 200px;
+}
+.ani{
+    padding-left: 50px;
+}
+.cont{
+    padding-left: 80vh;
+    font-family:  'Montserrat', sans-serif;
+}
+.cont1{
+    float: left;
+}
+P{
+    padding-left: 80vh;
+    font-family:  'Montserrat', sans-serif;
+    font-weight: 800;
+    font-size: 30px;
+}
